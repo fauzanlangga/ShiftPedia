@@ -1,0 +1,209 @@
+.header .header-top { 
+  background-color: #007bff; 
+}
+  
+a.btn-submit,
+.form .btn-submit { 
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+a.btn-submit:hover,
+.form .btn-submit:hover { 
+  background: #053971;
+  border-color: #053971;
+}
+ 
+ 
+.video-list.card .card-body  a:hover {
+  color: #007bff; 
+}
+    
+.video-detail.card .card-body  a:hover {
+  color: #007bff; 
+} 
+
+.related-video.card .card-body > ul li a:hover { 
+  color: #007bff; 
+}
+ 
+.agenda.card .card-body  a:hover {
+  color: #007bff; 
+}
+   
+.grid.card .image-container a {
+  color:#007bff;
+}
+
+.grid.card .card-body  a:hover {
+  color: #007bff; 
+}
+   
+.blog.card .card-body  a:hover {
+  color: #007bff; 
+}
+  
+
+.blog-detail.card .card-body  a:hover {
+  color: #007bff; 
+}
+      
+.row-blog.card .card-body  a:hover {
+  color: #007bff; 
+}
+ 
+
+.blog-list.card .card-body  a:hover {
+  color: #007bff; 
+}
+ 
+.polling label.bar {  
+  background-color: #007bff; 
+}
+ 
+.sidebar .widget.card > ul li a:hover,
+.sidebar .widget.card .card-body > ul li a:hover{ 
+  color: #007bff; 
+}
+ 
+.sidebar .widget.widget-tagcloud .tagcloud a:hover{
+  color: #007bff !important; 
+}
+
+ 
+ 
+.sidebar .widget.widget-comments ul li a:hover {
+  color: #007bff; 
+}
+  
+.sidebar .widget.widget-social .social-bar a.social-icon { 
+  border: 1px solid #007bff;
+  color: #007bff; 
+} 
+ 
+.sidebar .widget.widget-social .social-bar a.social-icon:hover  {
+  background: #007bff; 
+}
+ 
+
+.sidebar .widget.posts-widget li.list-post a:hover {
+  color: #007bff; 
+}
+ 
+.sidebar .widget.widget-contact .contact .data label {
+  color: #007bff;
+} 
+
+#footer .footer  ul li a:hover,
+#footer .footer .card-body ul li a:hover{ 
+  color: #007bff; 
+}
+ 
+
+.section .card-body .body-container a:hover{
+  color: #007bff; 
+}
+ 
+
+.section .card-body .body-container.animate:hover{ 
+  border-bottom: 5px solid #007bff;
+}
+  
+#carouselHero .carousel-caption a:hover{
+  color: #007bff;
+}
+ 
+#back-to-top { 
+  background: #007bff; 
+}
+ 
+#footer-bottom ul.footer-menu li a:hover{
+  color: #007bff;
+}
+
+ 
+
+.btn-theme { 
+  background-color: #007bff;
+  border-color: #007bff;
+ }
+ .btn-theme:hover {  
+  background: #053971;
+  border-color: #053971; 
+ }
+  
+  
+.btn-responsive {
+  background: #007bff; 
+}
+  
+.team-socmed a { 
+  border: 1px solid #007bff;
+  color: #007bff !important;
+} 
+
+.team-socmed a:hover  {
+  background: #007bff; 
+} 
+
+.section .section-container .section-title::after {
+  background: #007bff;
+}
+
+ .section .section-container > a.read-more:hover{
+   color: #007bff;
+ }
+ 
+.section .section-container .section-body .section-post.card.post-list .card-body a:hover,
+.section .section-container .section-body .section-post.card .post-content a:hover{
+ text-decoration: none;
+ color: #007bff;
+}
+ 
+.section.featured .section-container .section-body .section-post .card-body a:hover{
+  color: #007bff;
+}
+ 
+#breaking-news .breaking-content .title { 
+  background: #007bff; 
+}
+
+#breaking-news .breaking-content .breaking-news-slider {  
+  border: 1px solid #007bff; 
+} 
+ 
+
+#breaking-news .breaking-content .breaking-news-slider a {
+  color: #007bff; 
+}
+ 
+#breaking-news .breaking-content .breaking-news-slider .owl-nav button{  
+  border: 1px solid #007bff;
+  color: #007bff; 
+}
+ 
+  
+.pagination a {     
+  border: 1px solid #007bff;
+  color: #007bff; 
+}
+
+.pagination span.current { 
+  background: #007bff; 
+}
+
+.pagination a:hover { 
+  background: #007bff;
+} 
+ 
+.post-category .color-label{ 
+  background: #007bff !important;
+}
+
+.responsive-menu{
+  border-right: 3px solid #007bff;
+}
+
+.responsive-menu .menu-header {
+  background: #007bff;
+}

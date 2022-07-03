@@ -1,0 +1,210 @@
+.header .header-top { 
+  background-color: #fd7e14; 
+}
+  
+ 
+a.btn-submit,
+.form .btn-submit { 
+  background-color: #fd7e14;
+  border-color: #fd7e14;
+}
+
+a.btn-submit:hover,
+.form .btn-submit:hover { 
+  background: #b55504;
+  border-color: #b55504;
+}
+ 
+ 
+.video-list.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+    
+.video-detail.card .card-body  a:hover {
+  color: #fd7e14; 
+} 
+
+.related-video.card .card-body > ul li a:hover { 
+  color: #fd7e14; 
+}
+ 
+.agenda.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+   
+.grid.card .image-container a {
+  color:#fd7e14;
+}
+
+.grid.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+   
+.blog.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+  
+
+.blog-detail.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+      
+.row-blog.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+ 
+
+.blog-list.card .card-body  a:hover {
+  color: #fd7e14; 
+}
+ 
+.polling label.bar {  
+  background-color: #fd7e14; 
+}
+ 
+.sidebar .widget.card > ul li a:hover,
+.sidebar .widget.card .card-body > ul li a:hover{ 
+  color: #fd7e14; 
+}
+ 
+.sidebar .widget.widget-tagcloud .tagcloud a:hover{
+  color: #fd7e14 !important; 
+}
+
+ 
+ 
+.sidebar .widget.widget-comments ul li a:hover {
+  color: #fd7e14; 
+}
+  
+.sidebar .widget.widget-social .social-bar a.social-icon { 
+  border: 1px solid #fd7e14;
+  color: #fd7e14; 
+} 
+ 
+.sidebar .widget.widget-social .social-bar a.social-icon:hover  {
+  background: #fd7e14; 
+}
+ 
+
+.sidebar .widget.posts-widget li.list-post a:hover {
+  color: #fd7e14; 
+}
+ 
+.sidebar .widget.widget-contact .contact .data label {
+  color: #fd7e14;
+} 
+
+#footer .footer  ul li a:hover,
+#footer .footer .card-body ul li a:hover{ 
+  color: #fd7e14; 
+}
+ 
+
+.section .card-body .body-container a:hover{
+  color: #fd7e14; 
+}
+ 
+
+.section .card-body .body-container.animate:hover{ 
+  border-bottom: 5px solid #fd7e14;
+}
+  
+#carouselHero .carousel-caption a:hover{
+  color: #fd7e14;
+}
+ 
+#back-to-top { 
+  background: #fd7e14; 
+}
+ 
+#footer-bottom ul.footer-menu li a:hover{
+  color: #fd7e14;
+}
+
+ 
+
+.btn-theme { 
+  background-color: #fd7e14;
+  border-color: #fd7e14;
+ }
+ .btn-theme:hover {  
+  background: #b55504;
+  border-color: #b55504; 
+ }
+  
+  
+.btn-responsive {
+  background: #fd7e14; 
+}
+  
+.team-socmed a { 
+  border: 1px solid #fd7e14;
+  color: #fd7e14 !important;
+} 
+
+.team-socmed a:hover  {
+  background: #fd7e14; 
+}
+ 
+  
+ .section .section-container > a.read-more:hover{
+   color: #fd7e14;
+ }
+
+.section .section-container .section-title::after {
+  background: #fd7e14;
+}
+
+.section .section-container .section-body .section-post.card.post-list .card-body a:hover,
+.section .section-container .section-body .section-post.card .post-content a:hover{
+ text-decoration: none;
+ color: #fd7e14;
+}
+ 
+.section.featured .section-container .section-body .section-post .card-body a:hover{
+  color: #fd7e14;
+}
+ 
+#breaking-news .breaking-content .title { 
+  background: #fd7e14; 
+}
+
+#breaking-news .breaking-content .breaking-news-slider {  
+  border: 1px solid #fd7e14; 
+} 
+ 
+
+#breaking-news .breaking-content .breaking-news-slider a {
+  color: #fd7e14; 
+}
+ 
+#breaking-news .breaking-content .breaking-news-slider .owl-nav button{  
+  border: 1px solid #fd7e14;
+  color: #fd7e14; 
+}   
+
+.pagination a {     
+  border: 1px solid #fd7e14;
+  color: #fd7e14; 
+}
+
+.pagination span.current { 
+  background: #fd7e14; 
+}
+
+.pagination a:hover { 
+  background: #fd7e14;
+} 
+
+.post-category .color-label{ 
+  background: #fd7e14 !important;
+}
+
+.responsive-menu{
+  border-right: 3px solid #fd7e14;
+}
+
+.responsive-menu .menu-header {
+  background: #fd7e14;
+}

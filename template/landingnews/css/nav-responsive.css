@@ -1,0 +1,102 @@
+.overlay-responsive-menu {
+    background: #000000bf;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1998;  
+    top: 0;
+    left: 0;
+    bottom: 0;
+    opacity: 1;
+    transition: all 0.8s ease-in-out; 
+}
+.responsive-menu{
+    width: 250px;
+    z-index: 1999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #f7f7f7;
+    bottom: 0;   
+    margin-left: 0;  
+    transition: all 0.8s ease-in-out;  
+    border-radius: 0 13px 0 0;
+}
+
+body.responsive-menu-hide .overlay-responsive-menu {
+    opacity: 0;    
+    z-index: 0;
+    transition: all 0.8s ease-in-out; 
+}
+
+body.responsive-menu-hide .responsive-menu {
+    margin-left: -320px; 
+    transition: all 0.8s ease-in-out; 
+}
+
+.responsive-menu .menu-top{
+    margin-top: 15px;
+    color: #343a40;
+    display: flex;
+    float: right;
+    margin-right: 10px; 
+    border-radius: 0 10px 0 0;
+}
+
+.responsive-menu .menu-top .btn-responsive {
+    border-radius: 5px;
+}
+
+.responsive-menu .menu-top a {    
+    color: #f7f7f7;
+    background: #dc3545;
+    height: 35px;
+    width: 30px;
+    text-align: center;
+    padding: 5px 0 0 0;
+}
+
+.responsive-menu .menu-content { 
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+ 
+.responsive-menu .menu-content .sidemenu {
+    background: #f7f7f7;
+    border: 0;
+    color: #343a40;
+    border-radius: 0;
+}
+
+
+.responsive-menu  .menu-header{ 
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;    
+    border-bottom: 1px solid #ffffff1a;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 0 10px 0 0;
+}
+
+.responsive-menu .menu-content ul.sidemenu ul.sub-menu,
+.responsive-menu .menu-content ul.sidemenu {
+    list-style: none;
+    padding: 0; 
+    margin:0;
+}
+
+.responsive-menu .menu-content ul.sidemenu ul.sub-menu li ,
+.responsive-menu .menu-content ul.sidemenu li {
+    padding-left: 15px;
+}
+ 
+.responsive-menu .menu-content ul.sidemenu ul.sub-menu li a,
+.responsive-menu .menu-content ul.sidemenu li a {
+    color: #343a40;
+    display: block;
+    padding: 10px;   
+}
+ 

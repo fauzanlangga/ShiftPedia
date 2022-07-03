@@ -1,0 +1,214 @@
+.header .header-top { 
+  background-color: #dc3545; 
+}
+  
+ 
+a.btn-submit,
+.form .btn-submit { 
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+a.btn-submit:hover,
+.form .btn-submit:hover { 
+  background: #93101c;
+  border-color: #93101c;
+}
+ 
+ 
+.video-list.card .card-body  a:hover {
+  color: #dc3545; 
+}
+    
+.video-detail.card .card-body  a:hover {
+  color: #dc3545; 
+} 
+
+.related-video.card .card-body > ul li a:hover { 
+  color: #dc3545; 
+}
+ 
+.agenda.card .card-body  a:hover {
+  color: #dc3545; 
+}
+   
+.grid.card .image-container a {
+  color:#dc3545;
+}
+
+.grid.card .card-body  a:hover {
+  color: #dc3545; 
+}
+   
+.blog.card .card-body  a:hover {
+  color: #dc3545; 
+}
+  
+
+.blog-detail.card .card-body  a:hover {
+  color: #dc3545; 
+}
+      
+.row-blog.card .card-body  a:hover {
+  color: #dc3545; 
+}
+ 
+
+.blog-list.card .card-body  a:hover {
+  color: #dc3545; 
+}
+ 
+.polling label.bar {  
+  background-color: #dc3545; 
+}
+ 
+.sidebar .widget.card > ul li a:hover,
+.sidebar .widget.card .card-body > ul li a:hover{ 
+  color: #dc3545; 
+}
+ 
+.sidebar .widget.widget-tagcloud .tagcloud a:hover{
+  color: #dc3545 !important; 
+}
+
+ 
+ 
+.sidebar .widget.widget-comments ul li a:hover {
+  color: #dc3545; 
+}
+  
+.sidebar .widget.widget-social .social-bar a.social-icon { 
+  border: 1px solid #dc3545;
+  color: #dc3545; 
+} 
+ 
+.sidebar .widget.widget-social .social-bar a.social-icon:hover  {
+  background: #dc3545; 
+}
+ 
+
+.sidebar .widget.posts-widget li.list-post a:hover {
+  color: #dc3545; 
+}
+ 
+.sidebar .widget.widget-contact .contact .data label {
+  color: #dc3545;
+} 
+
+#footer .footer  ul li a:hover,
+#footer .footer .card-body ul li a:hover{ 
+  color: #dc3545; 
+}
+ 
+
+.section .card-body .body-container a:hover{
+  color: #dc3545; 
+}
+ 
+
+.section .card-body .body-container.animate:hover{ 
+  border-bottom: 5px solid #dc3545;
+}
+  
+#carouselHero .carousel-caption a:hover{
+  color: #dc3545;
+}
+ 
+#back-to-top { 
+  background: #dc3545; 
+}
+ 
+#footer-bottom ul.footer-menu li a:hover{
+  color: #dc3545;
+}
+
+ 
+
+.btn-theme { 
+  background-color: #dc3545;
+  border-color: #dc3545;
+ }
+ .btn-theme:hover {  
+  background: #93101c;
+  border-color: #93101c; 
+ }
+  
+  
+.btn-responsive {
+  background: #dc3545; 
+}
+  
+.team-socmed a { 
+  border: 1px solid #dc3545;
+  color: #dc3545 !important;
+} 
+
+.team-socmed a:hover  {
+  background: #dc3545; 
+} 
+
+.section .section-container .section-title::after {
+  background: #dc3545;
+}
+
+ .section .section-container > a.read-more:hover{
+   color: #dc3545;
+ }
+ 
+.section .section-container .section-body .section-post.card.post-list .card-body a:hover,
+.section .section-container .section-body .section-post.card .post-content a:hover{
+ text-decoration: none;
+ color: #dc3545;
+}
+ 
+.section.featured .section-container .section-body .section-post .card-body a:hover{
+  color: #dc3545;
+}
+ 
+#breaking-news .breaking-content .title { 
+  background: #dc3545; 
+}
+
+#breaking-news .breaking-content .breaking-news-slider {  
+  border: 1px solid #dc3545; 
+} 
+ 
+
+#breaking-news .breaking-content .breaking-news-slider a {
+  color: #dc3545; 
+}
+ 
+#breaking-news .breaking-content .breaking-news-slider .owl-nav button{  
+  border: 1px solid #dc3545;
+  color: #dc3545; 
+}  
+
+.pagination a {     
+  border: 1px solid #dc3545;
+  color: #dc3545; 
+}
+
+.pagination span.current { 
+  background: #dc3545; 
+}
+
+.pagination a:hover { 
+  background: #dc3545;
+} 
+
+.post-category .color-label{ 
+  background: #dc3545 !important;
+}
+
+.responsive-menu{
+  border-right: 3px solid #dc3545;
+}
+
+.responsive-menu .menu-header {
+  background: #dc3545;
+}
+
+.responsive-menu .menu-top a {    
+  background: #f7f7f7;
+  color: #dc3545; 
+}
